@@ -25,7 +25,7 @@ public class Animal {
 	 */
 
 	public void show() {
-		System.out.println(name + " �������� " + age + " � ����� " + weigth);
+		System.out.println(name + " \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd " + age + " \ufffd \ufffd\ufffd\ufffd\ufffd\ufffd " + weigth);
 	}
 
 	public static Animal create() {

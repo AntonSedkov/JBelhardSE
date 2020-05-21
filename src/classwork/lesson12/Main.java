@@ -23,7 +23,7 @@ public class Main {
 		five.show();
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("������� ���������� ���������:");
+		System.out.println("\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd:");
 		int i = 0;
 		if (sc.hasNextInt()) {
 			i = sc.nextInt();

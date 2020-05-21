@@ -21,7 +21,7 @@ public class Kitty extends Cat {
 
 	public void show() {
 		super.show();
-		System.out.println(name + " ����� ��������� " + timeEat);
+		System.out.println(name + " \ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd " + timeEat);
 	}
 
 	public int getTimeEat() {

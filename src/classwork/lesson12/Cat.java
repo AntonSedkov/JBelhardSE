@@ -16,7 +16,7 @@ public class Cat extends Animal {
 
 	public void show() {
 		super.show();
-		System.out.print(name + " c����� " + mice + " �����.");
+		System.out.print(name + " c\ufffd\ufffd\ufffd\ufffd\ufffd " + mice + " \ufffd\ufffd\ufffd\ufffd\ufffd.");
 		System.out.println();
 	}
 
